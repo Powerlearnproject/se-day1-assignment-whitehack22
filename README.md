@@ -190,6 +190,7 @@ Improved Prompt:
 "Provide a brief overview of the causes and consequences of World War I, focusing on the role of alliances and the Treaty of Versailles."
 
 Why the Improved Prompt is More Effective:
-Specificity: The revised prompt specifies the historical period (World War I) and focus areas (causes, repercussions, alliances, and the Treaty of Versailles), allowing the AI to deliver appropriate material.
-Clarity: The question makes it apparent that the user wants an overview, which helps the AI decide the depth and scope of the response.
-Conciseness: The prompt is brief yet informative enough to lead the AI efficiently, reducing the need for follow-up queries.
+
+a. Specificity: The revised prompt specifies the historical period (World War I) and focus areas (causes, repercussions, alliances, and the Treaty of Versailles), allowing the AI to deliver appropriate material.
+b. Clarity: The question makes it apparent that the user wants an overview, which helps the AI decide the depth and scope of the response.
+c. Conciseness: The prompt is brief yet informative enough to lead the AI efficiently, reducing the need for follow-up queries.
