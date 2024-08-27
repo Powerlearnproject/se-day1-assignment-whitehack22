@@ -160,6 +160,7 @@ b. Real-World Scenarios: The program is tested in an environment that is very si
 c. Reliability and Performance: System testing evaluates software reliability, performance, and scalability under a variety of scenarios.
 
 4. Acceptance testing - This is the final stage of testing, used to verify whether the software is ready for release. It is frequently used by end users or stakeholders to ensure that the system meets their needs.
+
 Importance:
 a. Meeting User Expectations: Acceptance testing guarantees that the program meets the users' expectations while also achieving the intended business objectives.
 b. Final Validation: It serves as the final validation step before release, ensuring that the program is full, functional, and ready for production use.
@@ -192,5 +193,7 @@ Improved Prompt:
 Why the Improved Prompt is More Effective:
 
 a. Specificity: The revised prompt specifies the historical period (World War I) and focus areas (causes, repercussions, alliances, and the Treaty of Versailles), allowing the AI to deliver appropriate material.
+
 b. Clarity: The question makes it apparent that the user wants an overview, which helps the AI decide the depth and scope of the response.
+
 c. Conciseness: The prompt is brief yet informative enough to lead the AI efficiently, reducing the need for follow-up queries.
