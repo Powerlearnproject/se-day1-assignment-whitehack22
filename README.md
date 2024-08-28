@@ -173,7 +173,7 @@ c. Stakeholder Approval: Acceptance testing frequently includes end-users or sta
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
-Prompt engineering is the process of creating and refining prompts for effective interaction with AI models, particularly big language models such as GPT. The purpose of prompt engineering is to create inputs that help the AI produce accurate, relevant, and helpful results. This entails comprehending how the AI perceives language, developing questions or instructions that reduce ambiguity, and iteratively refining prompts to obtain the intended result.
+Prompt engineering is the process of creating and refining prompts for effective interaction with AI models, particularly big language models such as ChatGPT. The purpose of prompt engineering is to create inputs that help the AI produce accurate, relevant, and helpful results. This entails comprehending how the AI perceives language, developing questions or instructions that reduce ambiguity, and iteratively refining prompts to obtain the intended result.
 Its importance include:
 1. Improve Accuracy: Using clear and specific prompts reduces misconceptions and increases the likelihood that the AI will offer accurate and relevant information.
 2. Improve Efficiency: A well-designed prompt can achieve the intended outcome with fewer iterations, saving time and resources.
